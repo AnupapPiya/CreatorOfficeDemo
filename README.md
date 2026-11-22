@@ -28,6 +28,16 @@ Idea → Draft and audit the script
 
 When a correction is approved, Creator Office updates the affected output and runs the relevant checks again.
 
+### Architecture and tech stack
+
+| Component | Technology | Role in the workflow |
+| --- | --- | --- |
+| Workflow orchestrator | Python, SQLite | Tracks job state, starts each job when its inputs are ready, and runs independent jobs in parallel. |
+| AI requests | Python, Codex CLI, SQLite | Sends prompts and reference images for writing, artwork, and audits. Queues requests in order within each Codex session. |
+| Review dashboard | HTML, CSS, JavaScript | Shows story previews, lets me approve or reject proposed corrections, and provides controls for adjusting scene timing. |
+| Narration and timing | Gemini, local Whisper, Python | Gemini generates the narration. Whisper transcribes the audio locally, and Python uses that transcript to align the scenes and subtitles. |
+| Video rendering | FFmpeg | Combines the selected artwork, narration, and subtitle timing into the final MP4. |
+
 ### Inside Creator Office
 
 ![Creator Office story preview showing the Thai short, subtitles, and playback controls](assets/creator-office-story-screen.png)
