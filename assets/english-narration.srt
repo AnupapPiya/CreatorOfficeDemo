@@ -1,0 +1,115 @@
+1
+00:00:08,270 --> 00:00:11,180
+Hi, this is Creator Office.
+
+2
+00:00:11,600 --> 00:00:16,840
+It’s a workflow for creating a script and turning
+it into a finished video.
+
+3
+00:00:17,300 --> 00:00:19,920
+This Thai short is one example.
+
+4
+00:00:20,910 --> 00:00:28,310
+Once the script is ready, narration and scene
+planning can run at the same time.
+
+5
+00:00:28,750 --> 00:00:33,175
+Some jobs need to continue an existing Codex
+session.
+
+6
+00:00:33,210 --> 00:00:38,475
+I queue those requests, so they run in order
+
+7
+00:00:38,510 --> 00:00:41,810
+and other sessions can keep working.
+
+8
+00:00:42,890 --> 00:00:45,850
+This is the short open in the app.
+
+9
+00:00:46,070 --> 00:00:50,470
+I can play the narration while looking at the
+artwork
+
+10
+00:00:51,090 --> 00:00:53,550
+and reading the Thai subtitles.
+
+11
+00:00:54,730 --> 00:00:59,710
+It’s where I check how everything fits together
+before I render.
+
+12
+00:01:00,877 --> 00:01:05,157
+These are two versions of the artwork for scene
+two.
+
+13
+00:01:06,117 --> 00:01:11,437
+The app kept the original on the left when it
+saved the repair.
+
+14
+00:01:11,717 --> 00:01:16,917
+On the right, you can see the seat and speech
+bubble from the opening shot.
+
+15
+00:01:17,697 --> 00:01:22,197
+Those details make the two images feel like they
+belong in the same room.
+
+16
+00:01:22,917 --> 00:01:26,797
+You’ll see the repaired version in the finished
+video.
+
+17
+00:01:37,137 --> 00:01:39,357
+That was the finished video.
+
+18
+00:01:39,637 --> 00:01:45,397
+The images on screen now are frames I pulled from
+the exported video.
+
+19
+00:01:45,837 --> 00:01:50,847
+They show the repaired artwork alongside the Thai
+subtitle.
+
+20
+00:01:51,767 --> 00:01:56,527
+I compared the full export with the timing saved
+in the app.
+
+21
+00:01:56,947 --> 00:01:59,627
+All subtitles kept the original text.
+
+22
+00:02:10,047 --> 00:02:17,407
+Then I’d watch the final video before deciding
+whether to adjust it or not.
+
+23
+00:02:18,500 --> 00:02:24,300
+If you’d like to see more of the shorts I’ve made
+with Creator Office,
+
+24
+00:02:25,100 --> 00:02:30,560
+I’ve linked Bear Knows It on YouTube and
+Instagram below.
+
+25
+00:02:31,520 --> 00:02:32,220
+Thank you for watching.
